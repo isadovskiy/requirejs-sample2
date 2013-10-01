@@ -1,4 +1,4 @@
-define(['jquery', 'framework/stuff', './plugin!'], function ($, framework, plugin) {
+define(['jquery', './plugin!'], function ($, plugin) {
 
     return function (el) {
 
